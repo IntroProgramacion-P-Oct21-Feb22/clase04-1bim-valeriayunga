@@ -11,9 +11,9 @@ package ejemplo01;
  */
 public class Ejemplo04 {
     public static void main(String[] args) {
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
+        String nombreEstudiante = "Valeria Alexandra";
+        String apellidoEstudiante = "Yunga Manzanillas";
+        int nacimiento = 2002;
         System.out.print(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento);
